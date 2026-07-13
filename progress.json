@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T20:32:03.953Z",
+  "generated_at": "2026-11-23T20:32:07.179Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -91,6 +91,32 @@
       "last_pushed_at": "2026-07-09T18:10:41.125Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:218": {
+      "kind": "problem",
+      "id": "218",
+      "title": "Compute the Hessian Matrix",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/218",
+      "path": "problems/0218-compute-the-hessian-matrix",
+      "first_solved_at": "2026-07-13T18:49:23.859Z",
+      "last_pushed_at": "2026-07-13T18:49:23.859Z",
+      "language": "python",
+      "lines": 48
+    },
+    "problem:217": {
+      "kind": "problem",
+      "id": "217",
+      "title": "Derivatives of Activation Functions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/217",
+      "path": "problems/0217-derivatives-of-activation-functions",
+      "first_solved_at": "2026-07-13T18:58:01.807Z",
+      "last_pushed_at": "2026-07-13T18:58:01.807Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
